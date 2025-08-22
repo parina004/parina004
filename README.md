@@ -25,6 +25,7 @@ Currently, I’m diving into the worlds of AI, web dev and Cybersecurity with pr
     <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1" />
     <img src="https://img.shields.io/badge/AutoCad-informational?style=flat-square&logo=Autodesk&logoColor=white&color=000000" />
     <img src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248" />
+    <img src="https://img.shields.io/badge/Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=FFCA28" />
     <img src="https://img.shields.io/badge/Canva-informational?style=flat-square&logo=Canva&logoColor=white&color=00C4CC" />
     <img src="https://img.shields.io/badge/AWS%20S3-informational?style=flat-square&logo=amazons3&logoColor=white&color=FF9900" />
     <img src="https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37" />
@@ -43,26 +44,7 @@ Currently, I’m diving into the worlds of AI, web dev and Cybersecurity with pr
     </a>
 </p>
 
-
-
-
 <!--## Hi there 👋
-**parina004/parina004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
 **parina004/parina004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
