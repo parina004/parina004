@@ -30,6 +30,8 @@ This hands-on really helps me bridge the gap between the academic concepts and p
   <img src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=339933" />
   <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1" />
+  </p>
+  <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248" />
   <img src="https://img.shields.io/badge/Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=FFCA28" />
   <img src="https://img.shields.io/badge/AWS%20S3-informational?style=flat-square&logo=amazons3&logoColor=white&color=FF9900" />
@@ -41,8 +43,7 @@ This hands-on really helps me bridge the gap between the academic concepts and p
 
 <h3> Connect with me </h3>
 
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/parinaparekh/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" />
   </a>
@@ -50,10 +51,11 @@ This hands-on really helps me bridge the gap between the academic concepts and p
   <a href="mailto:parinaparekh04@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-0078D4?style=flat" />
   </a>  </p>
-<p align="center">
+<p>
+and one more step?  
   <a href="https://github.com/parina004" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white"/>
 </a>
-</p>
+</p> 
 
 **Thanks for stopping by!**
