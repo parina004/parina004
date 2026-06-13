@@ -1,9 +1,7 @@
 <h1 align="center"> Hi there! I'm Parina <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" > </h1>
 
 <h3 align = "center">Final year Computer Science Student at BITS Pilani Dubai</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parina004&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+
 
 <h4> Welcome to my GitHub profile 🌱 </h4>
 
