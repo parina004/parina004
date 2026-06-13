@@ -39,6 +39,12 @@ This hands-on really helps me bridge the gap between the academic concepts and p
   <img src="https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=181717" />
 </p>
 
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=parina004&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
+
 <h3> Connect with me </h3>
 
 <p>
